@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Maylin Zeledón</h1>
 <h3 align="center">soy una frontend apasionada</h3>
 
-- 💬 Pregúntame sobre **HTML,CSS y JAVASCRIPT**
+- 💬 Pregúntame sobre **HTML,CSS y JAVASCRIPT** y soy estudiante de otros leguages.
 
 - 📫 Cómo contactarme **marilynzeledon1313@gmail.com**
 
